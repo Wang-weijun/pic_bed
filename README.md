@@ -1,2 +1,2 @@
 # pic_bed
-图床
+图床使用github+npm
